@@ -1,0 +1,18 @@
+# Core agent framework
+langchain==0.3.13
+langchain-anthropic==0.3.3
+langgraph==0.2.59
+langsmith==0.2.7
+
+# Anthropic SDK
+anthropic==0.42.0
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.10.6
+
+# For mock data generation
+faker==33.1.0
+
+# Optional: if you want local observability
+# arize-phoenix==4.0.0
