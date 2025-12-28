@@ -249,14 +249,3 @@ MIT License - see [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 Contributions welcome! Please open an issue or PR.
-
-## 📧 Contact
-
-**Your Name**  
-Email: your.email@example.com  
-LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)  
-Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
----
-
-⭐ If you found this project helpful, please star it!
