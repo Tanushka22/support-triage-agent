@@ -16,3 +16,8 @@ faker==33.1.0
 
 # Optional: if you want local observability
 # arize-phoenix==4.0.0
+# API dependencies
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.6
+python-multipart==0.0.20

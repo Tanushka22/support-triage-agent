@@ -4,3 +4,11 @@ __pycache__/
 *.pyc
 *.pyo
 .DS_Store
+
+# API specific
+*.log
+.pytest_cache/
+
+# Results
+*_results.json
+golden_dataset.json

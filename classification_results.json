@@ -1,0 +1,42 @@
+[
+  {
+    "ticket_id": "d445dc55-d39a-4656-9e6a-e8dd7674b129",
+    "query": "Can I get an invoice for last month?",
+    "predicted": "billing",
+    "actual": "billing",
+    "confidence": 0.95,
+    "correct": true
+  },
+  {
+    "ticket_id": "229de3e2-2d00-4772-987b-112d93a8cbd1",
+    "query": "Can I get an invoice for last month?",
+    "predicted": "billing",
+    "actual": "billing",
+    "confidence": 0.95,
+    "correct": true
+  },
+  {
+    "ticket_id": "64cb1d54-df5a-4992-b506-130a12cb9856",
+    "query": "Why was I charged $121 when my plan is $199?",
+    "predicted": "billing",
+    "actual": "billing",
+    "confidence": 0.95,
+    "correct": true
+  },
+  {
+    "ticket_id": "5be0346a-ac7c-4571-b4c2-8876153f66d3",
+    "query": "Why was I charged $238 when my plan is $199?",
+    "predicted": "billing",
+    "actual": "billing",
+    "confidence": 0.98,
+    "correct": true
+  },
+  {
+    "ticket_id": "82467c6e-3083-4bda-af62-fc604afa254d",
+    "query": "I can't upload files larger than 10MB",
+    "predicted": "technical",
+    "actual": "technical",
+    "confidence": 0.95,
+    "correct": true
+  }
+]

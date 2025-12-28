@@ -1,0 +1,182 @@
+[
+  {
+    "ticket_id": "d445dc55-d39a-4656-9e6a-e8dd7674b129",
+    "user_id": "user_2085",
+    "query": "Can I get an invoice for last month?",
+    "intent": "billing",
+    "created_at": "2025-12-05T12:51:37.968669",
+    "user_email": "karenmorris@example.net",
+    "user_name": "John Jordan"
+  },
+  {
+    "ticket_id": "229de3e2-2d00-4772-987b-112d93a8cbd1",
+    "user_id": "user_3818",
+    "query": "Can I get an invoice for last month?",
+    "intent": "billing",
+    "created_at": "2025-12-08T01:52:02.495484",
+    "user_email": "watsonraymond@example.com",
+    "user_name": "Angela Kelly"
+  },
+  {
+    "ticket_id": "64cb1d54-df5a-4992-b506-130a12cb9856",
+    "user_id": "user_2678",
+    "query": "Why was I charged $121 when my plan is $199?",
+    "intent": "billing",
+    "created_at": "2025-12-23T02:07:37.236509",
+    "user_email": "tamara99@example.com",
+    "user_name": "Daniel Williams"
+  },
+  {
+    "ticket_id": "5be0346a-ac7c-4571-b4c2-8876153f66d3",
+    "user_id": "user_2880",
+    "query": "Why was I charged $238 when my plan is $199?",
+    "intent": "billing",
+    "created_at": "2025-12-05T22:27:28.000238",
+    "user_email": "wweber@example.net",
+    "user_name": "Mary Knight"
+  },
+  {
+    "ticket_id": "82467c6e-3083-4bda-af62-fc604afa254d",
+    "user_id": "user_7462",
+    "query": "I can't upload files larger than 10MB",
+    "intent": "technical",
+    "created_at": "2025-12-17T20:54:11.484693",
+    "user_email": "uwhite@example.org",
+    "user_name": "Sierra Williams"
+  },
+  {
+    "ticket_id": "3a8a6e10-7785-4a01-b1d6-6a889737a18c",
+    "user_id": "user_4546",
+    "query": "I'm getting a 500 error when I try to login",
+    "intent": "technical",
+    "created_at": "2025-12-11T07:15:44.075524",
+    "user_email": "saraallen@example.net",
+    "user_name": "Cheryl Dunn"
+  },
+  {
+    "ticket_id": "85dcd5ec-15f2-4133-8cc6-8482a9b936e8",
+    "user_id": "user_4143",
+    "query": "I can't upload files larger than 10MB",
+    "intent": "technical",
+    "created_at": "2025-12-23T16:05:21.413473",
+    "user_email": "emilyjimenez@example.net",
+    "user_name": "Mr. Michael Fernandez"
+  },
+  {
+    "ticket_id": "a10b3954-35e7-4cdb-a3cb-88424edf39c0",
+    "user_id": "user_8032",
+    "query": "The dashboard won't load",
+    "intent": "technical",
+    "created_at": "2025-12-24T04:08:40.542828",
+    "user_email": "krystal44@example.org",
+    "user_name": "Stacy Logan"
+  },
+  {
+    "ticket_id": "919a0f0c-c8bf-4b31-abfe-b458028e08a0",
+    "user_id": "user_3287",
+    "query": "Can you help me update my profile?",
+    "intent": "account",
+    "created_at": "2025-12-23T00:55:40.688023",
+    "user_email": "stokesdesiree@example.com",
+    "user_name": "Kathleen Andrews"
+  },
+  {
+    "ticket_id": "97ea1c34-9454-472f-9f65-a5a5e8a3660b",
+    "user_id": "user_9248",
+    "query": "I'm locked out of my account",
+    "intent": "account",
+    "created_at": "2025-12-13T21:46:37.016777",
+    "user_email": "esantiago@example.com",
+    "user_name": "Terri Foster"
+  },
+  {
+    "ticket_id": "97485b0e-c5d3-4afb-b6b8-e76fbaf81db8",
+    "user_id": "user_8772",
+    "query": "I can't reset my password",
+    "intent": "account",
+    "created_at": "2025-12-24T10:41:31.310570",
+    "user_email": "beanandrew@example.org",
+    "user_name": "Reginald Medina"
+  },
+  {
+    "ticket_id": "5a6dcffb-5c74-40e4-a9bc-d11f766a39b7",
+    "user_id": "user_5276",
+    "query": "I need to delete my account",
+    "intent": "account",
+    "created_at": "2025-12-03T19:27:12.382735",
+    "user_email": "cedwards@example.org",
+    "user_name": "Kayla Gross"
+  },
+  {
+    "ticket_id": "2127c2cc-0db2-4099-9c70-526d48e12e94",
+    "user_id": "user_4530",
+    "query": "Do you offer non-profit discounts?",
+    "intent": "sales",
+    "created_at": "2025-12-02T04:27:30.285590",
+    "user_email": "fernando77@example.net",
+    "user_name": "Kimberly Daniel"
+  },
+  {
+    "ticket_id": "686793d8-edb0-4a17-a3a7-177a4c35eaf4",
+    "user_id": "user_3875",
+    "query": "What's the difference between Pro and Enterprise plans?",
+    "intent": "sales",
+    "created_at": "2025-12-03T19:07:42.752190",
+    "user_email": "jacquelinemurphy@example.com",
+    "user_name": "Melissa Dennis"
+  },
+  {
+    "ticket_id": "5c9a0fa2-b0c9-4674-8a21-ea7456fe0aec",
+    "user_id": "user_8958",
+    "query": "I want to upgrade to annual billing",
+    "intent": "sales",
+    "created_at": "2025-12-12T10:15:32.122178",
+    "user_email": "catherineyang@example.org",
+    "user_name": "Steven Flores"
+  },
+  {
+    "ticket_id": "b3e49d00-c8d7-4c7d-9932-fe2f4fac24de",
+    "user_id": "user_5339",
+    "query": "I want to upgrade to annual billing",
+    "intent": "sales",
+    "created_at": "2025-12-14T09:29:49.285288",
+    "user_email": "larsenjeremy@example.net",
+    "user_name": "Sean Dawson"
+  },
+  {
+    "ticket_id": "42bc4c0b-e43c-49dc-a59f-54d5ac412b31",
+    "user_id": "user_3480",
+    "query": "What's your refund policy?",
+    "intent": "general",
+    "created_at": "2025-12-23T16:38:50.077297",
+    "user_email": "josephguerra@example.com",
+    "user_name": "Joshua Martin"
+  },
+  {
+    "ticket_id": "668fd83b-f076-49b8-a985-d4c0d6e20910",
+    "user_id": "user_7858",
+    "query": "This isn't working",
+    "intent": "general",
+    "created_at": "2025-12-06T16:26:54.345193",
+    "user_email": "lawsonsarah@example.org",
+    "user_name": "Valerie Nguyen"
+  },
+  {
+    "ticket_id": "79874fc8-1986-44ef-99c7-c5b588608063",
+    "user_id": "user_1557",
+    "query": "I have a question",
+    "intent": "general",
+    "created_at": "2025-12-23T10:26:11.140879",
+    "user_email": "dwilkins@example.net",
+    "user_name": "Sabrina Richardson"
+  },
+  {
+    "ticket_id": "00002f2d-6737-4de7-b147-e3862246731e",
+    "user_id": "user_3473",
+    "query": "I have a question",
+    "intent": "general",
+    "created_at": "2025-12-13T01:00:01.584540",
+    "user_email": "iwalsh@example.com",
+    "user_name": "Nancy Sanders"
+  }
+]

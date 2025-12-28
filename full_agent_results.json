@@ -1,0 +1,29 @@
+[
+  {
+    "ticket_id": "d445dc55-d39a-4656-9e6a-e8dd7674b129",
+    "query": "Can I get an invoice for last month?",
+    "intent_predicted": "billing",
+    "intent_actual": "billing",
+    "action": "auto_resolve",
+    "team": null,
+    "priority": "low"
+  },
+  {
+    "ticket_id": "229de3e2-2d00-4772-987b-112d93a8cbd1",
+    "query": "Can I get an invoice for last month?",
+    "intent_predicted": "billing",
+    "intent_actual": "billing",
+    "action": "auto_resolve",
+    "team": null,
+    "priority": "low"
+  },
+  {
+    "ticket_id": "64cb1d54-df5a-4992-b506-130a12cb9856",
+    "query": "Why was I charged $121 when my plan is $199?",
+    "intent_predicted": "billing",
+    "intent_actual": "billing",
+    "action": "escalate",
+    "team": "billing_tier1",
+    "priority": "medium"
+  }
+]
